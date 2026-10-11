@@ -1,0 +1,5 @@
+{
+  "name": "transport-manager",
+  "private": true,
+  "type": "module"
+}
